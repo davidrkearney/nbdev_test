@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_test"
+  site-url: "https://davidrkearney.github.io/nbdev_test"
+  description: "test"
+  repo-branch: main
+  repo-url: "https://github.com/davidrkearney/nbdev_test"
